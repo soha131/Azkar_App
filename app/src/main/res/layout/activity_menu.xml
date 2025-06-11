@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#56A2A2">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="50dp"
+        android:text="قائمة المحتويات"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:padding="12dp"
+        android:textSize="34sp"
+        android:textColor="@color/white"
+        android:background="#708F91"
+      />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnMorning"
+        android:layout_width="300dp"
+        android:layout_height="54dp"
+        android:layout_gravity="center"
+        android:fontFamily="sans-serif-condensed"
+        android:layout_marginBottom="40dp"
+        android:textColor="@color/white"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:backgroundTint="#007074"
+        app:cornerRadius="0dp"
+        android:text="اذكار الصباح"/>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnEvening"
+        android:layout_width="300dp"
+        android:layout_height="54dp"
+        android:fontFamily="sans-serif-condensed"
+        android:layout_marginBottom="40dp"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:backgroundTint="#007074"
+        app:cornerRadius="0dp"
+        android:layout_gravity="center"
+        android:text="اذكار المساء"/>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnDua"
+        android:layout_width="300dp"
+        android:layout_height="54dp"
+        android:fontFamily="sans-serif-condensed"
+        android:layout_marginBottom="40dp"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:backgroundTint="#007074"
+        app:cornerRadius="0dp"
+        android:layout_gravity="center"
+        android:text="ادعية مختارة"/>
+    <Button
+        android:id="@+id/btnZkr"
+        android:layout_width="300dp"
+        android:layout_height="54dp"
+        android:fontFamily="sans-serif-condensed"
+        android:layout_marginBottom="40dp"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:backgroundTint="#007074"
+        app:cornerRadius="0dp"
+        android:layout_gravity="center"
+        android:text="فضل قراءة الاذكار"/>
+</LinearLayout>
