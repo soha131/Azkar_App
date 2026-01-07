@@ -18,7 +18,7 @@ This app presents authentic Islamic supplications (Azkar) in a clean, user-frien
 
 ## 🛠️ Technologies Used
 
-- **Language**: Java/Kotlin
+- **Language**: Java
 - **IDE**: Android Studio
 
 ## 📋 Prerequisites
