@@ -77,8 +77,6 @@ app/
 
 ## 🎨 Screenshots
 
-[Add screenshots of your app here]
-
 | Home Screen | Morning Azkar | Evening Azkar |
 |------------|---------------|---------------|
 | ![Home](app/src/main/res/drawable-xhdpi/home.jpg) | ![Morning](app/src/main/res/drawable-xhdpi/morning.jpg) | ![Evening](app/src/main/res/drawable-xhdpi/evening.jpg) |
