@@ -20,10 +20,6 @@ This app presents authentic Islamic supplications (Azkar) in a clean, user-frien
 
 - **Language**: Java/Kotlin
 - **IDE**: Android Studio
-- **Minimum SDK**: API [your minimum SDK level]
-- **Target SDK**: API [your target SDK level]
-- **Architecture**: [e.g., MVVM, MVC, MVP]
-- **Database**: [e.g., Room, SQLite, or state if not used]
 
 ## 📋 Prerequisites
 
@@ -85,7 +81,7 @@ app/
 
 | Home Screen | Morning Azkar | Evening Azkar |
 |------------|---------------|---------------|
-| ![Home](@drawable/home.jpg) | ![Morning](@drawable/morning.jpg) | ![Evening](@drawable/evening.jpg) |
+| ![Home](drawable-xhdpi/home.jpg) | ![Morning](drawable-xhdpi/morning.jpg) | ![Evening](drawable-xhdpi/evening.jpg) |
 
 ## 📖 Usage
 
