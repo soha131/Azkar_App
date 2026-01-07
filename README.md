@@ -81,7 +81,7 @@ app/
 
 | Home Screen | Morning Azkar | Evening Azkar |
 |------------|---------------|---------------|
-| ![Home](app/src/main/res/drawable-xhdpi/home.jpg) | ![Morning](drawable-xhdpi/morning.jpg) | ![Evening](drawable-xhdpi/evening.jpg) |
+| ![Home](app/src/main/res/drawable-xhdpi/home.jpg) | ![Morning](app/src/main/res/drawable-xhdpi/morning.jpg) | ![Evening](app/src/main/res/drawable-xhdpi/evening.jpg) |
 
 ## 📖 Usage
 
